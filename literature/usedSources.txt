@@ -1,3 +1,4 @@
 Data Mining, ISBN: 9780128042915
 Hands-On Machine Learning with Scikit-Learn and Tensorflow, ISBN: 9781491962299
 Feature Engineering for Machine Learning, ISBN: 9781491953242
+Scaling to Very Very Large Corpora for Natural Language Disambiguation, DOI: 10.3115/1073012.1073017
