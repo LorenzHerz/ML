@@ -1,4 +1,6 @@
 LinearRegression.png - self
+LinRegUnderfitting.png - self
 PolyRegressionOverfitting.png - self
 TreeRegressionOverfitting.png - self
+LabeledData.png - Hands on ML p.8
 
