@@ -3,4 +3,4 @@ LinRegUnderfitting.png - self
 PolyRegressionOverfitting.png - self
 TreeRegressionOverfitting.png - self
 LabeledData.png - Hands on ML p.8
-
+CrossValidation.png - Intro to ML in P p.254
