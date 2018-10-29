@@ -5,3 +5,4 @@ TreeRegressionOverfitting.png - self
 LabeledData.png - Hands on ML p.8
 CrossValidation.png - Intro to ML in P p.254
 BiasVarianceTradeOff.png - Understanding the Bias-Variance-Tradeoff
+SimpleDecisionTree.png - Intro to ML in P p.73
